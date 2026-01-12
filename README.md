@@ -52,3 +52,33 @@ The project demonstrates practical application of database theory through indexi
 
 - MySQL
 
+# Installation & Setup
+## Prerequisites
+- PHP 8+
+- MySQL 8+
+- Node.js & npm
+- Web server (Apache / Nginx / XAMPP / MAMP)
+## Steps
+1) Clone the repository
+2) Database setup
+  - Import the provided SQL schema into MySQL
+  - Configure database credentials in the PHP backend
+3)Backend
+  - Place backend files in your server’s root directory
+  - Ensure PHP extensions for MySQL are enabled
+4)Frontend
+    - Navigate to the frontend branch
+    - run 'npm install'
+    - run 'npm start'
+5)Access
+  - Frontend: http://localhost:3000
+  - Backend API: http://localhost/api/...
+# Future Improvements
+- Authentication and role-based access control
+- Pagination and server-side filtering
+- Caching frequently accessed queries
+- Dockerised deployment
+# Author
+Dakshit Singhal
+BSc (Hons) Computer Science
+University of Manchester
