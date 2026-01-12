@@ -1,0 +1,29 @@
+.container {
+    height: 100vh;
+    position: relative;
+}
+
+.sidebar {
+    position: fixed;
+    width: 20rem;
+    top:0;
+    left: -5rem;
+    height: 100vh;
+    background-color: rgb(219, 48, 14);
+    color: black;
+    transition: width 0.7s ease-in-out, left 0.7s ease-in-out;
+}
+
+
+.nav{
+    margin-left: 5rem;
+}
+
+
+.nav {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 1rem;
+}

@@ -1,0 +1,50 @@
+.form{
+    max-width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.label{
+    display:block;
+    margin-bottom: 5px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.auditbtn {
+  padding: 20px 40px;
+  background-color: #154f33;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  border-radius: 8px;
+  border: none;
+  height: fit-content;      /* important: keeps button aligned at the top */
+  cursor: pointer;
+}
+
+
+.input,
+.button {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button {
+  background-color: #1c5f3a;
+  color: #fff;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #124127;
+}
