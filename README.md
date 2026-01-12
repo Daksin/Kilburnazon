@@ -30,4 +30,25 @@ The project demonstrates practical application of database theory through indexi
 
 ## Automated Data Maintenance
 - SQL routines to remove archived records older than three years
-= Ensures long-term database efficiency and storage optimisation
+- Ensures long-term database efficiency and storage optimisation
+
+# Tech Stack
+## Frontend
+- React
+
+- JavaScript
+
+- HTML5
+
+- CSS3
+
+## Backend
+
+- PHP
+
+- RESTful APIs
+
+## Database
+
+- MySQL
+
