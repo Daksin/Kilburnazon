@@ -82,6 +82,6 @@ The project demonstrates practical application of database theory through indexi
 - Caching frequently accessed queries
 - Dockerised deployment
 # Author
-Dakshit Singhal
-BSc (Hons) Computer Science
+Dakshit Singhal  
+BSc (Hons) Computer Science  
 University of Manchester
